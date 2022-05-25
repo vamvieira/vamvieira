@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vamvieira&show_icons=true&locale=en&layout=compact" alt="vamvieira" /></p>
 
-<h4 align='left'>Eu realmente amo o programar. Estou trabalhando para ser um ótimo desenvolvedor Front End. que pode resolver problemas complexos e desenvolver sites bonitos e suaves. Quero contribuir mais com projetos de código aberto.</h4>
+<h4 align='left'>I really love programming. I'm working on being a great Front End developer. which can solve complex problems and develop beautiful and smooth websites. I want to contribute more to open source projects.</h4>
 
 <!---
 - 👋 Hi, I’m @vamvieira;
